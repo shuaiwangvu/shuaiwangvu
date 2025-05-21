@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on software management at Maastricht University.
 - 👯 I’m looking to collaborate on software management, FAIR software, FAIR data infrastructure.
 - 📫 How to reach me: shuai.wang@maastrichtuniversity.nl
-- ⚡ Fun fact: I'm also an artist. Checkout my website!
+- ⚡ Fun fact: I'm also an artist. Check my website!
 
